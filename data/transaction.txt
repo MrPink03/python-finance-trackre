@@ -1,0 +1,11 @@
+transaction id is transaction id is 4370ce65-e96f-4c97-b69e-75eb0630a8dc
+transaction amount is transaction amount is 30000
+transaction type is transaction date is 2026-11-23 15:16:11.298652
+transaction description is transaction type is income
+transaction catogery is transaction catogery is Salary
+transaction date is transaction description is software enginering internership salorytransaction id is 03d02322-4c9f-4237-ac8d-06143c763444
+transaction amount is 100000
+transaction type is income
+transaction description is sdfaheihaweirh
+transaction catogery is Salary
+transaction date is 2026-11-24 09:00:34.601046
